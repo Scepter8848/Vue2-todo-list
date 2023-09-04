@@ -1,2 +1,24 @@
-# -
-这是一个类似于便签的记事本，可以自定义要做的事项、行程等，有添加、删除、编辑等功能
+# to_list
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
